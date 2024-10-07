@@ -1,0 +1,40 @@
+{
+  "user": {
+    "name": "",
+    "gender": "",
+    "mobileNo": "",
+    "address": ""
+  },
+  "restaurant": {
+    "id": "",
+    "name": "",
+    "pinCodes": [],
+    "foodItem": [
+      {
+        "itemName": "",
+        "itemPrice": "",
+        "Quantity": ""
+      }
+    ],
+    "ratings": [
+      {
+        "rating": "",
+        "comment": "",
+        "userId": ""
+      }
+    ],
+    "averageRating" : 3.5
+  },
+  "order": {
+    "userId": "",
+    "restaurantId": "",
+    "foodItems": [
+      {
+        "itemName": "",
+        "itemPrice": "",
+        "Quantity": ""
+      }
+    ],
+    "amount" : ""
+  }
+}
